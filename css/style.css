@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Zilla Slab', serif;
+    font-size: 1.5rem;
+    line-height: 2.3rem;
+}
+
+/* HEADER */
+
+#header {
+    /* min-height: 70vh; */
+    padding: 10% 10% 0% 10%;
+}
+
+/* NAV */
+
+nav {
+    padding: 0;
+    margin: 0;
+    position: fixed;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+nav ul li {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style: none;
+}
+
+nav ul li:before {
+    content: none;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 8px 20px;
+    font-size: 1.1rem;
+    display: block;
+    vertical-align: middle;
+}
+
+nav ul li.logo a {
+    text-transform: none;
+    font-weight: bold;
+    background-color: #ff4444;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    padding: 8px 15px;
+    font-size: 1.4rem;
+}
+
+/* CONTENT */
+
+h1 {
+    font-size: 5rem;
+    line-height: 6rem;
+    margin-bottom: 0px;
+    color: #000;
+    -webkit-text-fill-color: transparent;
+    background: url("../christopher-burns-gyrrWzwqm5Y-unsplash.jpg") top;
+    -webkit-background-clip: text;
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+p.subline {
+    margin-top: 20px;
+    font-size: 3rem;
+    line-height: 4rem;
+    width: 90%;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 4.5rem;
+    width: 80%;
+}
+
+h3 {
+    font-size: 1.8rem;
+}
+
+p {
+    width: 70%;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 6px;
+}
+
+figure {
+    padding: 0;
+    margin: 0 0;
+}
+
+figure img {
+    width: 100%;
+}
+
+figcaption {
+    font-size: 1rem;
+    margin: 0;
+}
+
+div.container {
+    padding: 5% 10%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+div.legal {
+    padding: 3% 10%;
+    margin: 1.5rem 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+div.legal p {
+    width: 80%;
+}
+
+/*** LIST ***/
+
+ul {
+    list-style: none;
+    width: 70%;
+}
+
+ul li:before {
+    content: "–";
+    font-weight: bold;
+    font-size: 1.5rem;
+    float: left;
+    margin-left: -2rem;
+    margin-top: -0.1rem;
+}
+
+ul li {
+    display:block;
+    margin-bottom: 1rem;
+}
