@@ -19,6 +19,7 @@ nav {
     padding: 0;
     margin: 0;
     position: fixed;
+    background: rgba(255, 255, 255, 0.8);
 }
 
 nav ul {
