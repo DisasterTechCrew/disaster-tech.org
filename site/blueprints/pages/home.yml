@@ -1,0 +1,27 @@
+title: Home Page
+preset: page
+fields:
+  Headline:
+    label: Headline
+    type: text
+    size: small
+  Subline:
+    label: Subline
+    type: text
+    size: small
+  About:
+    label: About
+    type: textarea
+    size: large
+  Projects:
+    label: Projects
+    type: textarea
+    size: large
+  Join:
+    label: Join
+    type: textarea
+    size: large
+  Contact:
+    label: Contact
+    type: textarea
+    size: small

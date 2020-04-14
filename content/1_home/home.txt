@@ -1,0 +1,59 @@
+Title: DisasterTech
+
+----
+
+Headline: We build DisasterTech.
+
+----
+
+Subline: A global community of people who develop tools that help humans in crisis situations.
+
+----
+
+About:
+
+## About us
+In the current time, we see once again how vital well operating technology is. It ensures the survival of companies that have to work remotely from now on, that governments and NGOs remain capable of action. Still, above all, it supports the communication of security-relevant information, can help to maintain social contacts of people or to organize volunteer rescue teams.
+
+We are people who, independently of COVID-19, create sustainable technologies to help people and organizations in crisis situations and to ensure that our society can continue to be united. Over 200 people joined our collective – designers, developers, scientists, community managers and campaigners, but also lawyers, people from the government sector, scientists and people from disaster relief.
+
+We are facilitating a community based approach to disaster relief with technology. Join us and help us develop tools that help people in crisis situations.</p>
+
+### The organizers:
+
+- Niklas Jordan, <em>Founder & Advocacy</em> | <a href="https://www.niklasjordan.com/">Website</a>, <a href="https://twitter.com/niklas_jordan">Twitter</a>
+- Björn Rust, <em>Projects & Innovations</em> | <a href="https://bjornrust.com/">Website</a>, <a href="https://twitter.com/we_of_substance">Twitter</a>
+- Jesse Orndorff, <em>People & Community</em> | <a href="https://www.jesseorndorff.com/">Website</a>, <a href="https://twitter.com/jesseorndorff">Twitter</a>
+- Rajiv Kolluru | <a href="https://themadpaintr.com/">Website</a>, <a href="https://twitter.com/themadpaintr">Twitter</a>
+
+----
+
+Projects:
+
+## Projects
+Many members of our community work together with tech professional and crisis experts on various projects. Our group is still in the process of being formed, but here is a small foretaste of the projects we are already working on:
+
+- We are develop <strong>principles</strong> for tools to help people in crisis situations.
+- We are building a <strong>toolbox for local communities</strong> to help with awareness raising and communication in crisis situations.
+- We respond to calls from the public to develop <strong>new concepts and technologies</strong> at the onset of disaster.
+- And much more coming...
+
+<a href="#join">Want to join us?</a>
+
+----
+
+Join:
+
+## Join the crew!
+You don't know if you can contribute anything? Whatever your background: Please join in. We not only have tech professionals, such as designers, product managers and developers in our group, but also lawyers, crisis experts, engineers, civilian aid workers, campaigners, etc.
+
+We are a diverse group of people with different backgrounds and we are grateful for any experience. So what are you waiting for?
+
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrjIMuZybxX6RgKq?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="1783" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+----
+
+Contact:
+
+## Get in touch!
+If you have questions, remarks, ideas, or just want to say hi, write us a line to *disastertech [at] mailbox [dot] org*.

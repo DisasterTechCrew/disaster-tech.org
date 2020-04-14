@@ -1,0 +1,24 @@
+title: Admin
+fields:
+  Role:
+    label: Role
+    type: text
+    size: small
+  Bio:
+    label: Bio
+    type: textarea
+    size: medium
+  Website:
+    label: Website URL
+    type: url
+  Twitter:
+    label: Twitter URL
+    type: url
+  GitHub:
+    label: GitHub URL
+    type: url
+  organizer:
+    label: Organizer
+    type: checkboxes
+    options:
+      yes: Yes
