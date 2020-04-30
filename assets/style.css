@@ -160,6 +160,18 @@ div.newsletter-form {
     box-sizing: border-box;
 }
 
+div.newsletter-form h2 {
+    width: 100%;
+}
+
+div.newsletter-form p {
+    width: 100%;
+}
+
+.form_container {
+    max-width: 600px;
+}
+
 form {
     position: relative;
     display: block;
