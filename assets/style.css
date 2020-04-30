@@ -194,14 +194,14 @@ form {
   form input[type="email"] {
     width: 100%;
     display: block;
-    padding: 0 150px 0 10px;
+    padding: 0 0px 0 10px;
   }
   form input[type="submit"] {
     position: absolute;
     height: 50px;
     line-height: 50px;
     top: 10px;
-    right: 10px;
+    right: 0px;
     border-radius: 5px;
     padding: 0 25px;
     background: #ff4444;
