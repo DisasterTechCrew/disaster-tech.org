@@ -176,10 +176,8 @@ form {
     position: relative;
     display: block;
     height: auto;
-    border-radius: 5px;
     background: white;
     margin: 0 auto;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.28);
     overflow: hidden;
   }
   form input {
@@ -191,6 +189,8 @@ form {
     font-weight: 300;
     background: #eee;
     letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.28);
+    border-radius: 5px;
   }
   form input:not([type="submit"]) {
     width: 100%;
