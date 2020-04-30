@@ -191,12 +191,12 @@ form {
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.28);
     border-radius: 5px;
   }
-  form input[type="submit"] {
+  form input[type="email"] {
     width: 100%;
     display: block;
     padding: 0 150px 0 30px;
   }
-  form input[type="email"] {
+  form input[type="submit"] {
     position: absolute;
     height: 50px;
     line-height: 50px;
