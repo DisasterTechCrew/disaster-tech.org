@@ -154,7 +154,7 @@ ul li {
 
 div.newsletter-form {
     padding: 3% 10%;
-    background: #ff4444;
+    background: #FAFAFA;
     text-align: center;
     width: 100%;
     box-sizing: border-box;
@@ -164,7 +164,7 @@ form {
     position: relative;
     display: block;
     height: 70px;
-    border-radius: 35px;
+    border-radius: 5px;
     background: white;
     margin: 0 auto;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.28);
@@ -191,14 +191,14 @@ form {
     line-height: 50px;
     top: 10px;
     right: 10px;
-    border-radius: 25px;
+    border-radius: 5px;
     padding: 0 25px;
-    background: #f65269;
+    background: #ff4444;
     color: white;
     cursor: pointer;
   }
   form input:not([type="email"]):hover {
-    background: #f00c2c;
+    background: #ff4444;
   }
   form input:focus {
     outline: none;
