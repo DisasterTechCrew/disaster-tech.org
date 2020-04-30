@@ -175,7 +175,7 @@ div.newsletter-form p {
 form {
     position: relative;
     display: block;
-    height: 70px;
+    height: auto;
     border-radius: 5px;
     background: white;
     margin: 0 auto;
