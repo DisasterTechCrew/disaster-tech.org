@@ -196,7 +196,7 @@ form {
     display: block;
     padding: 0 150px 0 30px;
   }
-  form input:not([type="email"], [type="checkbox"]) {
+  form input:not([type="submit"], [type="checkbox"]) {
     position: absolute;
     height: 50px;
     line-height: 50px;
@@ -208,7 +208,7 @@ form {
     color: white;
     cursor: pointer;
   }
-  form input:not([type="email"]):hover {
+  form input:not([type="submit"], [type="checkbox"]):hover {
     background: #ff4444;
   }
   form input:focus {
