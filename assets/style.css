@@ -194,7 +194,7 @@ form {
   form input[type="email"] {
     width: 100%;
     display: block;
-    padding: 0 150px 0 30px;
+    padding: 0 150px 0 10px;
   }
   form input[type="submit"] {
     position: absolute;
@@ -208,7 +208,7 @@ form {
     color: white;
     cursor: pointer;
   }
-  form input[type="email"]:hover {
+  form input[type="submit"]:hover {
     background: #ff4444;
   }
   form input:focus {
