@@ -191,12 +191,12 @@ form {
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.28);
     border-radius: 5px;
   }
-  form input:not([type="email"], [type="checkbox"]) {
+  form input[type="submit"] {
     width: 100%;
     display: block;
     padding: 0 150px 0 30px;
   }
-  form input:not([type="submit"], [type="checkbox"]) {
+  form input[type="email"] {
     position: absolute;
     height: 50px;
     line-height: 50px;
@@ -208,7 +208,7 @@ form {
     color: white;
     cursor: pointer;
   }
-  form input:not([type="submit"], [type="checkbox"]):hover {
+  form input[type="email"]:hover {
     background: #ff4444;
   }
   form input:focus {
