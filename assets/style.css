@@ -178,7 +178,6 @@ form {
     height: auto;
     background: white;
     margin: 0 auto;
-    overflow: hidden;
   }
   form input {
     line-height: 70px;
@@ -192,12 +191,12 @@ form {
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.28);
     border-radius: 5px;
   }
-  form input:not([type="submit"]) {
+  form input:not([type="email"], [type="checkbox"]) {
     width: 100%;
     display: block;
     padding: 0 150px 0 30px;
   }
-  form input:not([type="email"]) {
+  form input:not([type="email"], [type="checkbox"]) {
     position: absolute;
     height: 50px;
     line-height: 50px;
