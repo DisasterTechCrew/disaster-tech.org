@@ -125,6 +125,13 @@ div.legal {
     box-sizing: border-box;
 }
 
+div.newsletter-form {
+    padding: 3% 10%;
+    margin: 1.5rem 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
 div.legal p {
     width: 80%;
 }

@@ -44,6 +44,8 @@
     <?= $page->contact()->kirbytext() ?>
   </div>
 
+<?php snippet('nl_form') ?>
+
 <?php snippet('footer') ?>
 
 </body>
