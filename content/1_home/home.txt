@@ -24,7 +24,6 @@ We are facilitating a community based approach to disaster relief with technolog
 - Niklas Jordan, <em>Founder & Advocacy</em> | <a href="https://www.niklasjordan.com/">Website</a>, <a href="https://twitter.com/niklas_jordan">Twitter</a>
 - Björn Rust, <em>Projects & Innovations</em> | <a href="https://bjornrust.com/">Website</a>, <a href="https://twitter.com/we_of_substance">Twitter</a>
 - Jesse Orndorff, <em>People & Community</em> | <a href="https://www.jesseorndorff.com/">Website</a>, <a href="https://twitter.com/jesseorndorff">Twitter</a>
-- Rajiv Kolluru | <a href="https://themadpaintr.com/">Website</a>, <a href="https://twitter.com/themadpaintr">Twitter</a>
 
 ----
 
@@ -56,4 +55,4 @@ We are a diverse group of people with different backgrounds and we are grateful 
 Contact:
 
 ## Get in touch!
-If you have questions, remarks, ideas, or just want to say hi, write us a line to *disastertech [at] mailbox [dot] org*.
+If you have questions, remarks, ideas, or just want to say hi, write us a line to *crew [at] disaster-tech [dot] org*.
