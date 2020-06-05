@@ -5,19 +5,19 @@
     <?php if ($page->isHomePage()): ?>
     <title><?= $site->title()->html() ?> | Technology for crisis situations</title>
     <?php else: ?>
-    <title><?= $page->title()->html() ?> | <?= $site->title()->html() ?></title>
+    <title><?= $page->title()->html() ?> | <?= $site->title()->html() ?>'s Blog</title>
     <?php endif ?>
-    <meta name="description" content="<?= $site->description()->html() ?>">
+    <meta name="description" content="<?= $page->intro()->text() ?>">
     <meta name="author" content="Niklas Jordan">
     <link rel="stylesheet" href="/assets/style.css">
 
     <meta property="og:title" content="<?= $site->title()->html() ?> | <?= $page->title()->html() ?>">
-    <meta property="og:description" content="<?= $site->description()->html() ?>">
+    <meta property="og:description" content="<?= $page->intro()->text() ?>">
     <meta property="og:image" content="https://www.disaster-tech.org/media/og-image.png">
     <meta property="og:url" content="https://www.disaster-tech.org">
 
     <meta name="twitter:title" content="<?= $site->title()->html() ?> | <?= $page->title()->html() ?>">
-    <meta name="twitter:description" content="<?= $site->description()->html() ?>">
+    <meta name="twitter:description" content="<?= $page->intro()->text() ?>">
     <meta name="twitter:image" content="https://www.disaster-tech.org/media/og-image.png">
     <meta name="twitter:card" content="summary_large_image">
 
