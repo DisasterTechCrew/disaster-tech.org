@@ -10,6 +10,7 @@
   <li><a href="https://www.disaster-tech.org/#about">About us</a></li>
   <li><a href="https://www.disaster-tech.org/#projects">Projects</a></li>
   <li><a href="https://www.disaster-tech.org/#join">Join the crew!</a></li>
+  <li><a href="/blog">Blog</a></li>
 <?php endif ?>
     </ul>
 </nav>

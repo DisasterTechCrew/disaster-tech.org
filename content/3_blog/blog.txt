@@ -1,0 +1,4 @@
+Title: Blog
+----
+Text: The latest posts on disasters and technology.
+----

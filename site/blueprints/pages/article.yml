@@ -1,0 +1,24 @@
+title: Blog Article
+preset: page
+fields:
+  author:
+      type: users
+      multiple: false
+      width: 1/2
+  date:
+    label: Published
+    type: date
+    width: 1/2
+    default: today
+  intro:
+    label: Intro
+    type: textarea
+    size: large
+  intro:
+    label: Intro
+    type: textarea
+    size: large
+  text:
+    label: Text
+    type: textarea
+    size: large

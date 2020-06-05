@@ -78,9 +78,25 @@ p.subline {
     width: 90%;
 }
 
+p.article-intro {
+    margin-top: 20px;
+    font-size: 1.9rem;
+    line-height: 3rem;
+    width: 80%;
+}
+
+p.article-meta {
+    margin-top: 10px;
+    font-size: 1.3rem;
+    line-height: 2rem;
+    width: 80%;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
 h2 {
     font-size: 3rem;
-    line-height: 4.5rem;
+    line-height: 3.5rem;
     width: 80%;
 }
 
@@ -118,6 +134,23 @@ div.container {
     box-sizing: border-box;
 }
 
+article.container {
+    padding: 0% 10%;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+}
+
+article.container h2 {
+    margin-bottom: 0px;
+}
+
+article.container span.article-meta {
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: 0.9em;;
+}
+
 div.legal {
     padding: 3% 10%;
     margin: 1.5rem 0;
@@ -127,6 +160,21 @@ div.legal {
 
 div.legal p {
     width: 80%;
+}
+
+article.container p:first-child::first-letter {
+    font-size: 5rem;
+    color: #000;
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.1);
+    float:left;
+    margin: .2em .2em 0 0;
+  }
+
+p.article-share a {
+    border-radius: 5px;
+    padding: 10px 10px;
+    background: rgba(255,68,68, 0.2);
+    display: inline;
 }
 
 /*** LIST ***/
@@ -158,6 +206,7 @@ div.newsletter-form {
     text-align: center;
     width: 100%;
     box-sizing: border-box;
+    margin-top: 50px;
 }
 
 div.newsletter-form h2 {

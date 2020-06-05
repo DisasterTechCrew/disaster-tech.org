@@ -1,0 +1,31 @@
+Title: Embracing Chaos
+
+----
+
+Author:
+
+- m4Y6eTtj
+
+----
+
+Date: 2020-06-05
+
+----
+
+Intro: Disasters tend to rally our humanity, which is the spirit in which DisasterTech was born. 
+
+----
+
+Text:
+
+Human civilisation, our laws, built environments and the technologies that contribute to them demonstrate our desire for order. However, there are only a finite number of ways that a thing can be arranged in an organised manner, especially when we consider human preferences. Order is fragile and finite, while chaos or entropy is unavoidable and ever-present as described by the second law of thermodynamics. When disaster strikes, we experience a tension between our desire for order and the tendency for the universe to return to disorder.
+​
+It could be argued that the notion of disaster—as it is commonly understood—is a means of processing a disruption to our human systems of order. Certainly, if we accept the Anthropocene, we must acknowledge that all disasters today are in some way tied to anthropogenic intervention. Otherwise put, if a catastrophic event goes unwitnessed, is it a disaster? The answer depends on how far our empathy extends to 'non-human' systems.
+​
+Whatever the case, humans are, for the most part, very defiant in the face of chaos. Disasters tend to rally our humanity, which is the spirit in which _DisasterTech_ was born. The desire to help one another appears to amplify when an event surpasses a particular scale or aligns to existing cultural phenomenons. This response is an exquisite aspect of humanity that should be nurtured at every opportunity. However, when we are not experienced in our response to a particular event, we are prone to misstepping and causing unforeseen harm.
+​
+Technologies promise to support humanitarian efforts in novel ways, promoting efficiencies that can lead to cost-saving. In some cases, the technological solution offers outcomes that might be impossible by any other means. However, we must be cautious that our solutions are appropriately designed for and with affected populations. We must channel our desire to help in such a way that we 'do no harm'; in other words, we must acknowledge our naivety. 
+​
+Humanitarians, development experts and affected populations can help to guide technologists towards more context-sensitive solutions. After all, as the complexity of technologies increases, they often becomes more fragile—just as our tendency for efficiency reduces redundancies and therefore, resilience. Meanwhile, technologists have a responsibility to challenge humanitarian incumbents with improved systems and solutions. Together we are more capable and more likely to develop durable solutions to our quest for order—as foolish as that might be.
+​
+As we enter the age of the 'new normal' we hope the _DisasterTech_ community will embrace the chaos and collectively strive for a brighter and more equitable future for those affected by the next disruption. _DisasterTech_ aims to test best practices around technology-based interventions in disaster scenarios. We hope that our open and transparent community-based approach will encourage members to hold each other accountable, help correct our assumptions and minimise the effects of our mistakes. We hope that you will join us on the journey.
