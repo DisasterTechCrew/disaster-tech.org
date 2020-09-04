@@ -1,0 +1,44 @@
+Title: Rapid Prototyping and Manufacturing in a Pandemic
+
+----
+
+Author:
+
+- m4Y6eTtj
+
+----
+
+Date: 2020-06-05
+
+----
+
+Intro: Recent events have driven rapid changes in several sectors within the economy, but it has also highlighted smaller areas that were well-positioned prior to the pandemic.
+
+----
+
+Text:
+
+Recent events have driven rapid changes in several sectors within the economy, but it has also highlighted smaller areas that were well-positioned prior to the pandemic. Rapid prototyping and manufacturing offer an unprecedented ability to assist in the preparation and response to critical events. This article explores how rapid and boutique manufacturing are helping to provide customised tools in specific cases.
+
+In the early days of the coronavirus pandemic, regions that typically provided manufacturing of plastics to the United States were already experiencing supply chain disruption. Face shields and masks were in short supply, providing a chance for amateur designs to help fill the gap. While facemasks proved difficult to design with 3D printers, face shields were a different story. A few designs quickly emerged, combining a 3D-printed bracket, a laser-cut clear plastic shield and a simple elastic band. It offered all the benefits of a commercial shield while bridging the supply gap.
+
+Within hours, makers across the US were using PETG plastic to 3D-print the brackets with their home devices, which they shipped to teams that combined those parts with laser-cut plastic shields. Coordination sprung up on Twitter and elsewhere, and teams localised to healthcare facilities supplied front-line workers with the fully assembled product. Eventually, larger volume manufacturers met the increasing demand, but it was months before it reached the required scale.
+
+These makers demonstrated the power of decentralised capacity building by sharing their technical capabilities, rather than merely a few parts. Additive manufacturing for disaster response has found a lot of favour in recent years. This has enabled the manufacture of custom tools like portable, rugged computers at a fraction of the cost of mainstream ruggedised PCs. This means smaller teams have access to similar equipment, which is specially tailored to the disaster context. It’s not what is made that is important, but how it is made. Here are some key benefits of rapid prototyping and manufacturing in a pandemic:
+
+## Rapid Mobilisation
+Hobbyists globally now have access to fairly standardised 3D printers and plastics, which are easy to ship, operate, and maintain. While still not as common as a microwave or a power drill at home, they offer the ability to quickly mobilise to help manufacture parts and distribute locally or through shipping channels at the regional level. This means parts can be distributed at a regional level within days.
+
+## Flexible Supply Chain
+Many projects can be designed to use what is available in a specific context. While standard consumer electronics may require specific components such as displays, processors, board components, etc., the flexibility of a local, smaller-scale design means that parts can be easily redesigned based on availability. This offers significant flexibility for dealing with a supply chain that may be under strain for other electronic components.
+
+## Simplified Design Process
+Designs created for a specific function or scenario can be more tailored as they do not need to meet the broad demands of a traditional consumer-product. For example, a portable computer that may only need to be dust-resistant rather than fully waterproof offers a simpler design path. While there are numerous challenges with amateur designs, the Open Source and Creative Commons approach to design means that more experienced designers are able to quickly share their work with a broad spectrum of makers. Additionally, less-experienced designers are free to modify existing works to fit their needs.
+
+## Advantage of Scale
+Scale is a funny thing to mention because a traditional factory is capable of producing parts in the hundreds if not thousands per day. But before that can happen, a design has to be created, tooling has to be made and tested, and materials have to be supplied to the factory. After that, it still needs to be shipped from the factories to the distribution centres, then on to the users.
+
+At-home rapid prototyping and manufacturing offer the ability to start making parts within hours. While each home might have limited capacity, the combined effort, coordination, teamwork, and goodwill of makers globally offer an unprecedented ability to respond quickly, and at a scale that can help provide a faster stop-gap response while factories catch up.
+
+### Biography 
+Jay has focused on IT infrastructure for more than 23 years, working with enterprise clients in a variety of industries, currently with Avanade.  He also designs Open Source edge computing solutions, and is assisting the Millix team with node infrastructure scaling.  Jay's personal work can be found at https://back7.co
